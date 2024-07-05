@@ -7,3 +7,4 @@ AAAA
 AA
 BB
 PCA+1
+PCB+1
