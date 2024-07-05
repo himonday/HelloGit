@@ -1,1 +1,4 @@
-hello world
+hello world!
+
+Diff 只能針對文字檔 程式code 做修改
+資料夾 > Diff > 檔案 > 修改右邊 儲存 > 檔案就會變成修改後的檔案
